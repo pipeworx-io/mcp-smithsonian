@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-smithsonian",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Smithsonian Open Access MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d8b27c2e68ad843fb4f87f5c3aded5796da4bee2ddad3f36230ec3d91e261862",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-d0ecf02c1380bd5e2427c6c84fae9878a19b225f65c8b8221a0fd8dbf47b70c2",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
