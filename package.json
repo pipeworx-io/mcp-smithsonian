@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-smithsonian",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Smithsonian Open Access MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "smithsonian",
     "gatewaySlug": "smithsonian",
-    "sourceHash": "v1-f13e973eec5e14b61455ab07e988eaef8063a634edf86c38d59dff633e5c238b",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-e3331ade054cc5c3a4887c9d48da18aa9abebf64f7b48613d9f15f8138c97bb5",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
